@@ -1,4 +1,4 @@
 # CustomHelp
-Have a custom /help message (PocketMine, Imagicalmine)
+Have a custom /help message (IMagicalMine)
 
-Coded Just need to Upload!
+---
