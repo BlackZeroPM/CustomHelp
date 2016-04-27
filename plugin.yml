@@ -1,0 +1,5 @@
+name: CH
+version: 1.0.0
+authors: [DJKaiMc, TheDevNet]
+api: 2.0.0
+main: CH\Main
